@@ -1,14 +1,14 @@
-#3D Reconstruction
+# 3D Reconstruction
 
 目前三维重建系统由两部分组成：SfM部分和多视图几何部分，其中SfM部分参考[OpenMVG](https://github.com/openMVG/openMVG),多视图几何部分参考[OpenMVS](https://github.com/cdcseacave/openMVS)
 
-**build
+- **build
 
 SfM: 参考/openMVG/BUILD
 
 OpenMVS: 参考/openMVS/BUILD.md
 
-**Run
+- **Run
 
 先运行SfM部分：
 
